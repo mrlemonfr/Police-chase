@@ -1,0 +1,158 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 3.5,
+		"createdAt": "",
+		"description": "<h5><a target=\"_blank\" href=\"https://discord.gg/5JxuetZhSz\" rel=\"noopener noreferrer nofollow\"><strong>Just Create Discord</strong></a></h5><p><strong>Gamedev community where you can share your works, read asset announcements and get customer support _____________________________________________________________________________</strong></p><p></p><p><span>This free low poly pack has 24 prefabs to start create amazing landscape. All models are ready to put in scene and created with one texture for better performance!</span></p><p></p><p><span><strong>Featured Assets:</strong></span></p><p><span>- </span><a target=\"_blank\" href=\"https://www.fab.com/listings/fc8a7d89-c1f4-4b9c-ad58-8ac4c01c899b\" rel=\"noopener noreferrer nofollow\"><span>Low Poly Mega Bundle</span></a></p><p><span>- </span><a target=\"_blank\" href=\"https://www.fab.com/listings/25ae4286-16ac-4a92-ae03-67d55e7f8b99\" rel=\"noopener noreferrer nofollow\"><span>Low Poly Fantasy Bundle</span></a></p><p>-<a target=\"_blank\" href=\"https://www.fab.com/listings/190ac834-80f0-443b-a111-953bce8353f3\" rel=\"noopener noreferrer nofollow\"> Low Poly 4 Seasons Nature</a></p><p>-<a target=\"_blank\" href=\"https://www.fab.com/listings/43ae2e5c-bfea-4cc9-b656-153ccd4f6dd3\" rel=\"noopener noreferrer nofollow\"> Low Poly Fantasy Forest</a></p><p></p><h5><strong>Join the Just Create Studio community on: </strong><a target=\"_blank\" href=\"https://discord.gg/5JxuetZhSz\" rel=\"noopener noreferrer nofollow\"><strong>Discord</strong></a> <span>| </span><a target=\"_blank\" href=\"https://twitter.com/JustCreate3d\" rel=\"noopener noreferrer nofollow\"><strong>Twitter </strong></a><span>| </span><a target=\"_blank\" href=\"https://www.instagram.com/justcreate.3d/\" rel=\"noopener noreferrer nofollow\"><span>Instagram</span></a></h5><p><strong>info@justcreate3d.studio</strong> - <strong>customer support</strong></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/97ea8b37-f100-46e0-9770-cc3ba82c097a/db6ef023-8f68-40ba-8225-ff16433e741a.png",
+		"publishedAt": "2025-11-22T07:51:26.183203Z",
+		"reviewCount": 6,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/a8d63ea0-baaf-4f7c-83c3-f88b40a169a6/a1b57297-ac5d-452b-ad2d-48162dbb4393.png",
+		"title": "Low Poly Simple Nature Pack",
+		"uid": "dbc49f41-e739-40c4-a09c-3587d30180de",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-flwl7ugbk9gbbe4eqxpzr4npvfaccj/cover/83116e3a.png",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-flwl7ugbk9gbbe4eqxpzr4npvfaccj/profile/9d6ac7eb.png",
+			"sellerName": "JustCreate",
+			"uid": "a4c6d1e7-1d0c-40fe-a315-04d427f3a9b2"
+		},
+		"tags": [
+			{
+				"name": "Polygon",
+				"slug": "polygon",
+				"uid": "111f7af3-929b-45f1-ad02-2daef685cc8d"
+			},
+			{
+				"name": "Landscape",
+				"slug": "landscape",
+				"uid": "12a522e9-2cf5-4f6f-8a50-6b9cfaddfc55"
+			},
+			{
+				"name": "Grass",
+				"slug": "grass",
+				"uid": "3377d4ed-aa0f-458d-a9a8-6a8c2a40dc77"
+			},
+			{
+				"name": "Tree",
+				"slug": "tree",
+				"uid": "365e087d-8586-4b06-94e8-69c855e5f0aa"
+			},
+			{
+				"name": "Plant",
+				"slug": "plant",
+				"uid": "39825278-7eee-4f2e-aa9e-fa21a6f08c4f"
+			},
+			{
+				"name": "Rock",
+				"slug": "rock",
+				"uid": "3f071878-96ef-47c7-ac6e-3264a25fef81"
+			},
+			{
+				"name": "Flower",
+				"slug": "flower",
+				"uid": "60043fc2-3978-4b33-8ed5-53c6893b9350"
+			},
+			{
+				"name": "Terrain",
+				"slug": "terrain",
+				"uid": "626de131-538d-4692-8571-09ec74976c72"
+			},
+			{
+				"name": "Vegetation",
+				"slug": "vegetation",
+				"uid": "7b1e3cb7-1c5f-4454-8b89-70aab49afcb6"
+			},
+			{
+				"name": "Cartoon",
+				"slug": "cartoon",
+				"uid": "8bc8f154-d25c-419b-8ae1-740693004da5"
+			},
+			{
+				"name": "Nature",
+				"slug": "nature",
+				"uid": "8d858676-26d9-4329-b3f7-0b3a4107b7f9"
+			},
+			{
+				"name": "Level",
+				"slug": "level",
+				"uid": "8f2cd337-060b-438b-8d2d-62808026db6f"
+			},
+			{
+				"name": "Forest",
+				"slug": "forest",
+				"uid": "ce0abda8-968f-4046-967f-d7ff632d84a2"
+			}
+		],
+		"category":
+		{
+			"name": "Forest & Jungle",
+			"path": "environments/forest-jungle",
+			"slug": "environments--forest-jungle",
+			"uid": "b66dbb5d-4792-4ce7-a24c-8d7c8b88af7c"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Unity",
+					"groupName": "Game Engine Formats",
+					"code": "unity",
+					"icon": "unity",
+					"extensions": [
+						"unitypackage"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Unreal Engine",
+					"groupName": "Game Engine Formats",
+					"code": "unreal-engine",
+					"icon": "unreal-engine",
+					"extensions": [
+						"uasset",
+						"uproject"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "b983b8d0-cdbb-4b94-8108-3c0351dab292",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "5feda001-2ce3-4299-9509-0ad350e1fb2d",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "b983b8d0-cdbb-4b94-8108-3c0351dab292",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
